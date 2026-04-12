@@ -7,5 +7,8 @@
 ## Output
 Predicted salary for age 29 : XXXX
 
+## 📸 Screenshot
+![Output](images/output.png)
+
 ## Next:
 Day 2 - Real Dataset Practice
