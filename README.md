@@ -15,8 +15,5 @@ Predicted salary for age 29 and experience 5 year : XXXX
 ![Output](images/output.png)
 
 ## Next:
-<<<<<<< HEAD
-Day 2 - Real Dataset Practice
-=======
+
 Day 3 - Data Cleaning & Missing Values
->>>>>>> 90ba04e (Day 2: Real dataset with visualization)
